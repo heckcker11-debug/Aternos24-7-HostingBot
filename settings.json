@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "serverafkbot",
-    "password": "1234",
+    "username": "imgonnacream",
+    "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "PringlesGrape.aternos.me:27024",
     "port": 27024,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
