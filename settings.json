@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
-    "password": "",
+    "username": "serverafkbot",
+    "password": "1234",
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "PringlesGrape.aternos.me:27024",
+    "port": 27024,
     "version": "",
     "try-creative": false
   },
