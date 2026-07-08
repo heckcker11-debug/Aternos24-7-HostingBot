@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PringlesGrape.aternos.me:27024",
+    "ip": "PringlesGrape.aternos.me",
     "port": 27024,
     "version": "1.21.11",
     "try-creative": false
